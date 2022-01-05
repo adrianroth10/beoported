@@ -32,3 +32,5 @@
 *.app
 
 pc2d
+
+build*
